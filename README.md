@@ -11,8 +11,11 @@ Através da metodologia **RFM (Recência, Frequência e Valor Monetário)**, o m
 
 
 O painel foi desenhado (Dark Mode) com foco absoluto na usabilidade e tomada de decisão rápida:
+
 * **Impacto da Recompra:** Prova visual de que a maior taxa de evasão ocorre exatamente após a primeira compra, exigindo ações de retenção imediatas.
 * **Mapa de Risco:** Gráfico de dispersão cruzando o comportamento com o faturamento, destacando outliers de alto valor.
+* **Tendência Histórica da Receita Perdida (Churn):** Demonstra a evolução temporal do prejuízo financeiro, permitindo identificar sazonalidades ou picos de evasão (como o mês de agosto) para ajudar a gestão a antecipar campanhas de retenção.
+* **Faturamento Retido vs. Evasão:** Visão macro e imediata da saúde financeira, contrastando o capital seguro na base de clientes ativos contra o volume exato de dinheiro que já "vazou" da operação.
 * **Plano de Ação Tático:** Tabela gerada automaticamente entregando aos vendedores a lista priorizada de clientes de alto faturamento que acabaram de entrar na zona de risco.
 
 ## 🛠️ Arquitetura e Engenharia de Dados: ETL no Databricks
